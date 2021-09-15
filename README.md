@@ -22,11 +22,11 @@ Planejamento das Sprints:
 
 1. Sprint 1 (4hrs):
 
-Criar o repositório do projeto no GitHub
-Fazer o envio do link na página do desafio da Gama Academy
-Escolher o template adequado para a home page no bootstrap
-Fazer o download do template e as devidas configurações no VS Code
-Modificar e adaptar os menus e funcionalidades da home page
+* Criar o repositório do projeto no GitHub
+* Fazer o envio do link na página do desafio da Gama Academy
+* Escolher o template adequado para a home page no bootstrap
+* Fazer o download do template e as devidas configurações no VS Code
+* Modificar e adaptar os menus e funcionalidades da home page
 
 2. Sprint 2 (4hrs):
 
