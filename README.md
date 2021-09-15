@@ -20,7 +20,7 @@ Product Backlog:
 
 Planejamento das Sprints:
 
-1. Sprint 1 (4hrs):
+1. Sprint 1 (8hrs):
 
 * Criar o repositório do projeto no GitHub
 * Fazer o envio do link na página do desafio da Gama Academy
@@ -28,17 +28,17 @@ Planejamento das Sprints:
 * Fazer o download do template e as devidas configurações no VS Code
 * Modificar e adaptar os menus e funcionalidades da home page
 
-2. Sprint 2 (4hrs):
+2. Sprint 2 (8hrs):
 
-Modificar as cores e fontes padrão para dar um toque mais adequado com a proposta do negócio
-Testar as modificações feitas
-Testar a responsividade
-Criar as tags para linkar a página do produto e a página "Sobre nós"
+* Modificar as cores e fontes padrão para dar um toque mais adequado com a proposta do negócio
+* Testar as modificações feitas
+* Testar a responsividade
+* Criar as tags para linkar a página do produto e a página "Sobre nós"
 
-3. Sprint 3 (4hrs):
+3. Sprint 3 (8hrs):
 
-Implementar a estrutura HTML das páginas (Produto, "Sobre nós")
-Implementar a formatação CSS das páginas (Produto, "Sobre nós")
-Testar o funcionamento dos links e a navegação de todas as páginas
-Testar responsividade das páginas produto e "Sobre nós"
+* Implementar a estrutura HTML das páginas (Produto, "Sobre nós")
+* Implementar a formatação CSS das páginas (Produto, "Sobre nós")
+* Testar o funcionamento dos links e a navegação de todas as páginas
+* Testar responsividade das páginas produto e "Sobre nós"
 
