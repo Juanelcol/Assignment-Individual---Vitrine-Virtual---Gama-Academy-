@@ -1,0 +1,15 @@
+footer{
+    padding: 3px;
+    background-color: orangered;
+    color: white;
+    text-align: center;
+    font-size: small;
+}
+
+.card{
+    margin: 5px;
+}
+
+p{
+    text-align: justify;
+}
