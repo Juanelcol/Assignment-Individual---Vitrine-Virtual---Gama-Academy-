@@ -1,15 +1,33 @@
-footer{
-    padding: 3px;
-    background-color: orangered;
-    color: white;
-    text-align: center;
-    font-size: small;
-}
-
 .card{
     margin: 5px;
 }
 
 p{
     text-align: justify;
+}
+
+footer{
+    padding: 3px;
+    background-color: orangered;
+    color: white;
+    font-size: small;
+}
+
+#text-footer{
+    text-align: center;
+}
+
+.text-about{
+    text-align: justify;
+    font-size: large;
+    margin-top: 50px;
+    margin-left: 35px;
+    margin-right: 35px;
+}
+
+@media (min-width: 900px){
+    .text-about{
+        margin-left: 200px;
+        margin-right: 200px;
+    }
 }
